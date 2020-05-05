@@ -1,0 +1,10 @@
+{
+	"auth": {
+		"message6fcb0692": {
+			"service": "Cognito",
+			"providerPlugin": "awscloudformation",
+			"dependsOn": [],
+			"customAuth": false
+		}
+	}
+}

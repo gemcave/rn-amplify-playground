@@ -1,0 +1,20 @@
+{
+    "test": {
+        "awscloudformation": {
+            "AuthRoleName": "amplify-message-test-191001-authRole",
+            "UnauthRoleArn": "arn:aws:iam::140479300454:role/amplify-message-test-191001-unauthRole",
+            "AuthRoleArn": "arn:aws:iam::140479300454:role/amplify-message-test-191001-authRole",
+            "Region": "ap-northeast-2",
+            "DeploymentBucketName": "amplify-message-test-191001-deployment",
+            "UnauthRoleName": "amplify-message-test-191001-unauthRole",
+            "StackName": "amplify-message-test-191001",
+            "StackId": "arn:aws:cloudformation:ap-northeast-2:140479300454:stack/amplify-message-test-191001/bfde7e00-8ed1-11ea-bf9b-0ac11ba26f7a",
+            "AmplifyAppId": "d1c3xn3r1ntzdw"
+        },
+        "categories": {
+            "auth": {
+                "message6fcb0692": {}
+            }
+        }
+    }
+}
